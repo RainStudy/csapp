@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ec2796b4-aa44-444d-aefb-cc446c8dff67" name="asgard">
+        <fileTransfer rootFolder="/home/coldrain_moro" accessType="SFTP" host="mcsy.net" port="10006" sshConfigId="aab9f12f-cc6f-4f0a-8272-357041066232" sshConfig="coldrain_moro@mcsy.net:10006 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
