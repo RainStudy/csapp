@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4048467d-e7be-4099-9106-4e86d0dd9f6e" name="tecent">
+        <fileTransfer rootFolder="/home/ubuntu" accessType="SFTP" host="101.35.155.93" port="22" sshConfigId="6fbcdf4b-39e8-4242-ae54-44cf4ab9bac0" sshConfig="ubuntu@101.35.155.93:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
